@@ -35,7 +35,7 @@ To get started, use the data type [Point.java](./src/main/java/Point.java), whic
 To avoid potential complications with integer overflow or floating-point precision, you may assume that the constructor arguments x and y are each between 0 and 32,767. 
 <br>
 **Line segment data type.**<br>
-To represent line segments in the plane, use the data type LineSegment.java, which has the following API:
+To represent line segments in the plane, use the data type [LineSegment.java](src/main/java/LineSegment.java), which has the following API:
 
 ```java
 public class LineSegment {
