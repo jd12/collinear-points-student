@@ -162,3 +162,9 @@ Submit only the files `BruteCollinearPoints.java`, `FastCollinearPoints.java`, a
 
 This assignment was developed by Kevin Wayne of Princeton University. 
 Copyright © 2005.
+
+**Program Specification**<br>
+http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+
+**FAQ/Checklist**<br>
+http://coursera.cs.princeton.edu/algs4/checklists/collinear.html
