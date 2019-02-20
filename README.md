@@ -164,7 +164,7 @@ This assignment was developed by Kevin Wayne of Princeton University.
 Copyright © 2005.
 
 **Program Specification**<br>
-http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
 
 **FAQ/Checklist**<br>
-http://coursera.cs.princeton.edu/algs4/checklists/collinear.html
+http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html **Very useful for this project**
